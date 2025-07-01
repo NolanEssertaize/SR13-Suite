@@ -1,11 +1,11 @@
 # 🚀 Phase 0 – Préparation (30/07/2025)
-Objectifs :
+## Objectifs :
 
 Poser les bases de ton projet SR13
 
 Tirer profit de ton rendez-vous « identité visuelle » dimanche
 
-Actions :
+## Actions :
 
 Brief identité
 
@@ -13,7 +13,7 @@ Prépare un moodboard (couleurs, typographies, exemples de sites)
 
 Note tes valeurs clés (fiabilité, simplicité, automatisation…)
 
-Vision & cibles
+## Vision & cibles
 
 Définis les personas (micro-entrepreneurs, TPE de 1–10 pers…)
 
@@ -28,13 +28,13 @@ Planning sportif & pro
 Bloque 2×45 min de créa (soirée) + 3×30 min de sport cette semaine
 
 # 📐 Phase 1 – Affinage fonctionnel & maquettage (7/07/2025)
-Objectifs :
+## Objectifs :
 
 Transformer ta vision en périmètre de MVP
 
 Valider l’expérience utilisateur avant le code
 
-Actions :
+## Actions :
 
 Atelier de cadrage (2 h)
 
@@ -42,7 +42,7 @@ Revue backlog, priorisation MoSCoW (Must/Should/Could)
 
 User flows
 
-Schématise le parcours :
+## Schématise le parcours :
 
 Visiteur arrive sur / (portfolio) → découvre le service → /services
 
@@ -52,7 +52,7 @@ Wireframes basse fidélité
 
 Outils : Figma ou Balsamiq
 
-Pages clés :
+## Pages clés :
 
 Vitrine SR13 (home, à propos, contact)
 
@@ -65,13 +65,13 @@ Implique ton ami du RDV dimanche pour feedback
 Ajuste ton backlog après chaque session
 
 # 💻 Phase 2 – Mise en place technique & prototype (14/07/2025)
-Objectifs :
+## Objectifs :
 
 Structurer le monorepo et l’infra
 
 Avoir un premier prototype « réel » en multi-conteneurs
 
-Actions :
+## Actions :
 
 Monorepo & Docker-Compose
 
@@ -98,7 +98,7 @@ Lancer le service d’automatisation basique
 
 Mettre en place l’authentification
 
-Actions :
+## Actions :
 
 Backend FastAPI
 
@@ -123,13 +123,13 @@ Propose un thème léger (ton identité visuelle appliquée)
 Ajoute un système de quota / facturation basique
 
 # 🚀 Phase 4 – Go-to-Market & croissance (Septembre 2025)
-Objectifs :
+## Objectifs :
 
 Attirer les premiers clients TPE/PME
 
 Automatiser la facturation & la relance
 
-Actions :
+## Actions :
 
 Studio de contenu
 
@@ -158,8 +158,8 @@ Revoyez le backlog chaque sprint (2 semaines)
 # 🌟 Conseils pour tenir la cadence
 Sport : 3 séances courtes (20 min) par semaine, plutôt le matin.
 
-XEFI : bloque 1 h « Deep Work » pour SR13 le midi, 2×45 min le soir.
+## XEFI : bloque 1 h « Deep Work » pour SR13 le midi, 2×45 min le soir.
 
-Week-ends : 2 h de prototypage/fix bug, 1 h de lecture veille IA/RPA.
+## Week-ends : 2 h de prototypage/fix bug, 1 h de lecture veille IA/RPA.
 
-Revue hebdo : chaque vendredi, 30 min de bilan + ajustement roadmap.
+## Revue hebdo : chaque vendredi, 30 min de bilan + ajustement roadmap.
