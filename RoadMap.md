@@ -1,4 +1,4 @@
-🚀 Phase 0 – Préparation (30/07/2025)
+# 🚀 Phase 0 – Préparation (30/07/2025)
 Objectifs :
 
 Poser les bases de ton projet SR13
@@ -27,7 +27,7 @@ Planning sportif & pro
 
 Bloque 2×45 min de créa (soirée) + 3×30 min de sport cette semaine
 
-📐 Phase 1 – Affinage fonctionnel & maquettage (7/07/2025)
+# 📐 Phase 1 – Affinage fonctionnel & maquettage (7/07/2025)
 Objectifs :
 
 Transformer ta vision en périmètre de MVP
@@ -64,7 +64,7 @@ Implique ton ami du RDV dimanche pour feedback
 
 Ajuste ton backlog après chaque session
 
-💻 Phase 2 – Mise en place technique & prototype (14/07/2025)
+# 💻 Phase 2 – Mise en place technique & prototype (14/07/2025)
 Objectifs :
 
 Structurer le monorepo et l’infra
@@ -91,7 +91,7 @@ Prototype fonctionnel
 
 Déploie en staging : home + route /services qui affiche « Coming soon »
 
-🛠 Phase 3 – MVP Automatisation & Auth (21/07/2025-21/08/2025)
+# 🛠 Phase 3 – MVP Automatisation & Auth (21/07/2025-21/08/2025)
 Objectifs :
 
 Lancer le service d’automatisation basique
@@ -122,7 +122,7 @@ Propose un thème léger (ton identité visuelle appliquée)
 
 Ajoute un système de quota / facturation basique
 
-🚀 Phase 4 – Go-to-Market & croissance (Septembre 2025)
+# 🚀 Phase 4 – Go-to-Market & croissance (Septembre 2025)
 Objectifs :
 
 Attirer les premiers clients TPE/PME
@@ -155,7 +155,7 @@ Mettez en place des dashboards (GA4, Metabase)
 
 Revoyez le backlog chaque sprint (2 semaines)
 
-🌟 Conseils pour tenir la cadence
+# 🌟 Conseils pour tenir la cadence
 Sport : 3 séances courtes (20 min) par semaine, plutôt le matin.
 
 XEFI : bloque 1 h « Deep Work » pour SR13 le midi, 2×45 min le soir.
